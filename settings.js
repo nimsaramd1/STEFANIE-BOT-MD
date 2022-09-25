@@ -4,7 +4,7 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Stefanie Bot Inc. 
-//Thank you to Mr.chabby, Family and Myself
+//Thank you to Mr.Nimsaramd, Family and Myself
 //════════════════════════════//
 //
 //════════════════════════════//
