@@ -1,8 +1,8 @@
 {
-  "name": "Stefanie-WhatsApp-Bot-MD",
+  "name": "𝘉𝘓𝘈𝘊𝘒 𝘕𝘐𝘔𝘚𝘈𝘙𝘈𝘔𝘋𝘉𝘖𝘛",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD",
-  "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
+  "logo": "https://telegra.ph/file/285a1d182378c6f947f37.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
